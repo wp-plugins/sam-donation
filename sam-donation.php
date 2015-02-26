@@ -2,11 +2,11 @@
 defined('ABSPATH') or die("No script kiddies please!");
 /**
  * Plugin Name: SAM Donation
- * Plugin URI : http://URI_Of_Page_Describing_Plugin_and_Updates
+ * Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
  * Description: A small plugin that will allow you to drop a recurring South America Mission donation form on your website.  To get started: 1) Click the "Activate" link to the left of this description, 2) Click on Plugins > SAM Donate on the left menu 3) Follow the instructions on the page!
- * Version    : 1.0
- * Author     : Chris Weissenberger
- * License    : GPL2
+ * Version: 1.0
+ * Author: Chris Weissenberger
+ * License: GPL2
  */
 /*  Copyright 2014  Chris Weissenberger  (email : caweissen@gmail.com)
 
