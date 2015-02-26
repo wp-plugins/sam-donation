@@ -4,7 +4,7 @@ Donate link: http://www.southamericamission.org/index.php
 Tags: SAM, South America, Mission, donation, donate
 Requires at least: 3.0.1
 Tested up to: 4.1.1
-Stable tag: 0.2.1
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,22 +55,10 @@ You can email me directly at cmweissenberger@southamericamission.org if you have
 
 == Changelog ==
 
-= 0.2.1 =
-* Hardcoded names/account number fixed.
-
-= 0.2 =
-* Fixed redirection issues.
-
-= 0.1 =
+= 1.0 =
 * Initial plugin version.
 
 == Upgrade Notice ==
 
-= 0.2.1 =
-* Fixes hardcoded name/account issue.  Makes this plugin useful!
-
-= 0.2 =
-* A better user eperience.
-
-= 0.1 =
+= 1.0 =
 * It works!
