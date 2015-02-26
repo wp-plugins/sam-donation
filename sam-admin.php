@@ -50,7 +50,7 @@ function sam_donation_form() {
         <form id="frmDonate" name="frmDonate" action="<?php echo plugins_url( 'sam-donation/donate.php', dirname(__FILE__) ); ?>" method="post">
             Amount: $<input name="amount" type="text" id="amount" style="width:110px;"/><br>
             Frequency:
-            <select name="recur" id="recur" style="width:100px;">
+            <select name="recur" id="recur">
                 <option value="1" selected>Monthly</option>
                 <option value="2">Quarterly</option>
                 <option value="3">Annually</option>
