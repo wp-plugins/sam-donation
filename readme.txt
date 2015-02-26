@@ -19,7 +19,9 @@ After installing, you will need two things:
 - The name of the missionary or SAM project
 - The account number for that missionary or project
 
-After entering these, simply drop this shortcode into a post or page, and your form will show up.
+In the left hand menu, click on `Plugins`, then `SAM Donate`.
+
+Enter your information and after entering these, simply drop this shortcode into a post or page, and your form will show up.
 `[sam-donate]`
 
 If you have access to your theme's template files and wish to put this form into your theme directly, use this PHP code:
